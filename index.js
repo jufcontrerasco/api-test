@@ -18,7 +18,7 @@ app.get('/products',(req,res)=>{
         cost: 420
     },
     {
-        name:'Product 3',
+        name:'Product 23',
         cost: 1500
     }])
 })
